@@ -3,7 +3,7 @@
  I'm a student IT at Warsaw University of Technology :smiley:  
  I learn mainly frontend technologies in JavaScript and I'm interesting in backend :muscle:
  
- I'm looking to develop my skills as a JavaScript Developer with other devs in a project so send me message and help each other! 🙂
+ I'm looking to develop my skills as a Frontend Developer with other devs in a project so send me message and help each other! 🙂
  
  📫 How to reach me **mwskoczek@gmail.com**
 
