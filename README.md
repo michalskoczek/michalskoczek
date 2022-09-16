@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- I'm a student IT at Warsaw University of Technology :smiley:  
+ I work as a Junior Frontend Developer also I study IT at Warsaw University of Technology :smiley: 
  I develop my frontend skills (mainly Angular) :muscle:
   
  📫 How to reach me **mwskoczek@gmail.com**
