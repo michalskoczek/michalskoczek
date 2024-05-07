@@ -1,12 +1,12 @@
 ## Hi there 👋
 
- I work as a Junior Frontend Developer also I study IT at Warsaw University of Technology :smiley: 
+ I work as a Frontend Developer. I graduated engineering studies at Warsaw University of Technology in Computer Science :smiley: 
  I develop my frontend skills (mainly Angular) :muscle:
   
  📫 How to reach me **mwskoczek@gmail.com**
 
 - 🔭 I’m currently working on **Off-road.net** 
-- 🌱 I’m currently learning **Angular & TypeScript**
+- 🌱 I’m currently learning **Angular/Testing/RxJS**
 
 <h3 align="left">My experiences:</h3>
 <p align="left">
@@ -18,8 +18,9 @@
 - TypeScript
 - Angular (11+)
 - RxJS
-- Jasmine/Karma, Cypress
+- Jasmine/Karma, Cypress, Jest
 - REST API, Swagger
 - Bootstrap, Angular Material
 - Node.js, Express, MongoDB
+- Docker, Webpack
 
